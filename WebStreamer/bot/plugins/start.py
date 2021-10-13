@@ -31,7 +31,7 @@ ABOUT_TEXT = """
 <b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://t.me/m2botz'>3.0.1</a></b>\n
 <b>🔹Sᴏᴜʀᴄᴇ : <a href='https://t.me/m2botz'>ᴄᴏᴍɪɴɢ sᴏᴏɴ</a></b>\n
 <b>🔸ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/m2botz'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
-<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/Avishkarpatil'>Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ</a></b>\n
+<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/ask_admin01'>ᴍ2</a></b>\n
 <b>🔸sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/m2botzsupport'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
 <b>🔹Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://t.me/m2botz'>[ 13-ᴏᴄᴛᴏʙᴇʀ-21 ] 06:25 PM</a></b>"""
 
